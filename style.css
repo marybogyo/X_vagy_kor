@@ -1,0 +1,25 @@
+.kocka{
+    border: 1px solid black;
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    background-color: azure;
+}
+article{
+   margin: 0 auto;
+   font-weight: bold;
+
+}
+header{
+    text-align: center;
+    padding: 30px;
+    font-size:x-large ;
+    font-weight: bold;
+}
+body{
+    background: url(kutyan7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
